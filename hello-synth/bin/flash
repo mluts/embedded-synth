@@ -1,0 +1,2 @@
+#!/bin/sh
+cube programmer -c port=SWD -w build/Debug/hello-synth.elf -v -rst
