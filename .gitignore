@@ -1,2 +1,3 @@
 */build
 /.helix/languages.toml
+.DS_Store
